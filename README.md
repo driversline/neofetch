@@ -1,3 +1,1 @@
-[Русский]() - [English]()
-
-### Logo | Логотип - https://techicons.dev/icons/nixos
+### Лого - https://techicons.dev/icons/nixos
